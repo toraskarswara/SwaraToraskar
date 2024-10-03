@@ -1,0 +1,18 @@
+body{
+    background-image: url(vid/Home\ \(2\).png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  background-position: absolute;
+  background-size: 100% 110%;
+}
+#t1{
+    color: white;
+    position: absolute;
+    top: 80%;
+    left: 47%;
+    text-decoration: none;
+    
+    
+
+
+}

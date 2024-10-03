@@ -1,0 +1,62 @@
+#b1{
+    position: absolute;
+    top: 30%;
+    left: 25%;
+    margin: 5px;
+    padding: 10px;
+}
+
+#b2{
+    position: absolute;
+    top: 90%;
+    left: 25%;
+    margin: 5px;
+    padding: 10px;
+}
+#b3{
+    position: absolute;
+    top: 150%;
+    left: 25%;
+    margin: 5px;
+    padding: 10px;
+}
+#t1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 200%;
+    position: absolute;
+    top: 47%;
+    left: 50%;
+    right: 30%;
+    color: black;
+    
+
+
+}
+#t2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 200%;
+    position: absolute;
+    top: 106%;
+    left: 50%;
+    right: 27%;
+
+    color: black;
+
+    
+}
+#t3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 200%;
+    position: absolute;
+    top: 173%;
+    left: 50%;
+    color: black;
+
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    position: absolute;
+    top: 15%;
+    left: 45%;
+}
